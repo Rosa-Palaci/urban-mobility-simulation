@@ -1,0 +1,44 @@
+-- Tienda Oxxo --
+Autor: alecsvaldez
+Licencia: CC Attribution
+Retrieved from: https://sketchfab.com/3d-models/tienda-oxxo-636c02e80d7f4ebea822808c002fe26b
+
+-- Tienda Elektra y Banco Azteca --
+Autor: alecsvaldez
+Licencia: CC Attribution 
+Retrieved from: https://sketchfab.com/3d-models/tienda-elektra-y-banco-azteca-712d07b8b96846c8964dc3f31a8c5fa2
+
+-- Farmacia Guadalajara ..
+Autor: alecsvaldez
+Licencia: CC Attribution
+Retrieved from: https://sketchfab.com/3d-models/farmacia-guadalajara-d98a5671fec34796a6a5d26d3a37b83f
+
+-- Little Caesars --
+Autor: alecsvaldez
+Licencia: CC Attribution
+Retrieved from: https://sketchfab.com/3d-models/little-caesars-6d815511c59f47819b7b4aaf7fc3d729
+
+-- Farmacias Similares --
+Autor: alecsvaldez
+Licencia: CC Attribution
+Retrieved from: https://sketchfab.com/3d-models/farmacias-similares-4d9800cb31d94b37b6e9ba33226a4fce
+
+-- Low Poly Park Pack - Created with FastMesh Asset --
+Autor: Fast Mesh
+Licencia: Extension Asset
+Retrieved from: https://assetstore.unity.com/packages/3d/environments/urban/low-poly-park-pack-created-with-fastmesh-asset-292938
+
+-- SimplePoly City - Low Poly Assets --
+Autor: VenCreations
+Licencia: Extension Asset
+Retrieved from: https://assetstore.unity.com/packages/3d/environments/simplepoly-city-low-poly-assets-58899
+
+-- PBR Lion Statue | 3 Variants --
+Autor: Tumdog
+Licencia: Etxension Asset
+Retrieved from: https://assetstore.unity.com/packages/3d/props/pbr-lion-statue-3-variants-168377
+
+-- Farm Animal Set --
+Autor: Vertex Cat
+Licencia: Extension Asset
+Retrieved from: https://assetstore.unity.com/packages/3d/farm-animals-set-97945
