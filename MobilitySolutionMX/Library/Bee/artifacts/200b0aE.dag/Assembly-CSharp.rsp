@@ -358,6 +358,7 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.51f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.51f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
+"Assets/FastMesh/Scripts/SceneViewText.cs"
 "Assets/Prefabs/Loading Games/Toon City Pack/Demo/Scripts/BuildingLights.cs"
 "Assets/Prefabs/Loading Games/Toon City Pack/Demo/Scripts/Helicopter.cs"
 "Assets/Prefabs/Loading Games/Toon City Pack/Demo/Scripts/PoliceSiren.cs"
@@ -379,6 +380,7 @@
 "Assets/Prefabs/Sketchfab For Unity/Scripts/SketchfabPlugin.cs"
 "Assets/Prefabs/Sketchfab For Unity/Scripts/SketchfabUI.cs"
 "Assets/Scripts/AssignMaterialToPlanes.cs"
+"Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
 /optimize+
